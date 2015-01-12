@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.leidos.xchangecore.core.em</groupId>
-    <artifactId>com.leidos.xchangecore.core.em.xmlbeans-em</artifactId>
+    <artifactId>xmlbeans-em</artifactId>
     <version>1.1.4</version>
     <packaging>jar</packaging>
     <name>com.leidos.xchangecore.core.em.xmlbeans-em</name>
